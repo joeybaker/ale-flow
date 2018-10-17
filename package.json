@@ -1,0 +1,15 @@
+{
+  "name": "ale-flow",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "flow-bin": "^0.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joey Baker <joey.baker@discordapp.com>",
+  "license": "Artistic-2.0"
+}
